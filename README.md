@@ -1,13 +1,13 @@
 # parcoursup
 Un outil VBA + Power Query pour suivre son dossier Parcoursup
 
-##Prérequis
+## Prérequis
 
 * Avoir des identifiants Parcoursup (n° de dossier + mot de passe)
 * Avoir Excel 2010, 2013 ou 2016 ou Office 365 sous Windows car l'outil utilise Power Query qui n'existe pas sur Mac
 * Pour Excel 2010/2013, avoir téléchargé et installé l'add-in gratuit [Power Query](https://www.microsoft.com/fr-FR/download/details.aspx?id=39379)
 
-##Utilisation
+## Utilisation
 
 * Ouvrir le fichier. 
 * Autoriser l'utilisation des macros et des contenus externes.
@@ -16,10 +16,10 @@ Un outil VBA + Power Query pour suivre son dossier Parcoursup
 
 Si tout se passe bien, le tableau sera peuplé avec vos voeux et leur statut, ainsi que des détails supplémentaires si vous êtes en liste d'attente.
 
-##Licence
+## Licence
 
 Vous êtes libres de partager librement cet outil et de le modifier mais il vous est demandé d'en attribuer la paternité à son auteur (reddit.com/u/tirlibibi17). 
 
-##Logiciels tiers
+## Logiciels tiers
 
 Cet outil utilise la bibliothèque [VBA-Web](http://vba-tools.github.io/VBA-Web/).
