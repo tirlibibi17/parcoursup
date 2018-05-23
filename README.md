@@ -14,11 +14,11 @@ Un outil VBA + Power Query pour suivre son dossier Parcoursup
 * Saisir son numéro de dossier et son mot de passe dans les cases prévues à cet effet
 * Appuyer sur le bouton "Mettre à jour" et attendre l'apparition du message "Mise à jour terminée !"
 
-Si tout se passe bien, le tableau sera peuplé avec vos voeux et leur statut, ainsi que des détails supplémentaires si vous êtes en liste d'attente.
+Si tout se passe bien, le tableau sera rempli avec tes voeux et leur statut, ainsi que des détails supplémentaires si tu es en liste d'attente, [comme ceci](https://i.imgur.com/fG5lKQq.png).
 
 ## Licence
 
-Vous êtes libres de partager librement cet outil et de le modifier mais il vous est demandé d'en attribuer la paternité à son auteur (reddit.com/u/tirlibibi17). 
+Tu es encouragé à partager librement cet outil et à le modifier mais tu dois en attribuer la paternité à son auteur (reddit.com/u/tirlibibi17). 
 
 ## Logiciels tiers
 
